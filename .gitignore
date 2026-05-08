@@ -1,0 +1,33 @@
+# Visual Studio 临时文件
+.vs/
+
+# UE 生成目录
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 用户设置文件
+# *.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.db
+*.opendb
+*.VC.db
+
+# 运行时临时文件
+*.log
+*.tmp
+*.swp
+
+# 插件（当前只有AirSim这一个插件，Plugin文件夹是从AirSim-main复制来的，不上传）
+Plugins/
+
+# 初学者引文件夹
+**/StarterContent/
+
+# 如果某些插件生成的文件也需要忽略，可加：
+# Plugins/*/Binaries/
+# Plugins/*/Intermediate/

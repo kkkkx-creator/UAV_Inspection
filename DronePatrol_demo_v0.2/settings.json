@@ -1,0 +1,39 @@
+{
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ViewMode": "FlyWithMe",
+    "Vehicles": {
+        "UAV1": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "AllowAPIAlways": true,
+            "X": 0, "Y": 0, "Z": 50,
+            "Yaw": 0
+        },
+        "UAV2": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "AllowAPIAlways": true,
+            "X": 30, "Y": 30, "Z": 75,
+            "Yaw": 45
+        },
+        "UAV3": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "AllowAPIAlways": true,
+            "X": 0, "Y": 0, "Z": 75,
+            "Yaw": -45
+        },
+        "UAV4": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "AllowAPIAlways": true,
+            "X": 30, "Y": 30, "Z": 80,
+            "Yaw": 180
+        }
+    }
+}

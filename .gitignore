@@ -25,8 +25,11 @@ Saved/
 # 插件（当前只有AirSim这一个插件，Plugin文件夹是从AirSim-main复制来的，不上传）
 Plugins/
 
-# 初学者引文件夹
+# 初学者指引文件夹
 **/StarterContent/
+
+# 教程文件夹
+**/教程/
 
 # 如果某些插件生成的文件也需要忽略，可加：
 # Plugins/*/Binaries/

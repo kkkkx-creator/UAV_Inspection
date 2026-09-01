@@ -1,0 +1,10 @@
+{
+    // 指定 NewEvn 解释器的精确路径
+    "python.defaultInterpreterPath": "C:\\Users\\56885\\.conda\\envs\\AirSim\\python.exe",
+
+    // 让集成终端自动激活该环境
+    "python.terminal.activateEnvironment": true,
+
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
